@@ -1,4 +1,4 @@
-# multiple-inventory-sys
+# multi-inventory-sys
 
 ## DB Design: 
 
